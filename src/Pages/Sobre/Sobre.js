@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
-import Header from './Header';
-import TabelaSobre from './TabelaSobre';
+import Header from '../../Components/Header/Header';
+import TabelaSobre from '../../TabelaSobre';
 
 class Sobre extends Component {
 
